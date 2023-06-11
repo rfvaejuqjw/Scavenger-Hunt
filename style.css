@@ -22,10 +22,8 @@ header {
     font-size: xx-large;
 }
 
-<style>
-    strong {
-        font-weight: bold;
-        font-weight: 700;
-         font-size: 1.5em;
-    }
-</style>
+header strong {
+    font-weight: bold;
+    font-size: 1.5em; /* Adjust the font size as desired */
+}
+
