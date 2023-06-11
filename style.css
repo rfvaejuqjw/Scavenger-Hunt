@@ -21,3 +21,9 @@ header {
     height: 20vh;
     font-size: xx-large;
 }
+
+<style>
+    strong {
+        font-weight: bold;
+    }
+</style>
